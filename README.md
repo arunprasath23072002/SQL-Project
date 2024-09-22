@@ -11,3 +11,6 @@
 
 ### E- Commerce Customer Churn Analysis Database
 - [E- Commerce Customer Churn Analysis Database](https://github.com/arunprasath23072002/SQL-Project/blob/main/E-Comm%20project%20Database.sql)
+
+### Data Cleaning
+-Data cleaning is the systematic process of detecting and correcting (or removing) corrupt or inaccurate records from a dataset. This includes identifying incomplete, incorrect, or irrelevant parts of the data and replacing, modifying, or deleting these "dirty" data entries. The goal is to produce a dataset that is consistent and reliable for further analysis, which is crucial for understanding customer behavior and churn patterns.
