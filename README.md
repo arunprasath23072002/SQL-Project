@@ -14,7 +14,7 @@
 
 ### Data Cleaning
 - Data cleaning is the systematic process of detecting and correcting (or removing) corrupt or inaccurate records from a dataset. This includes identifying incomplete, incorrect, or irrelevant parts of the data and replacing, modifying, or deleting these "dirty" data entries. The goal is to produce a dataset that is consistent and reliable for further analysis, which is crucial for understanding customer behavior and churn patterns.
-
+[E-Comm Data Cleaning](https://github.com/arunprasath23072002/SQL-Project/blob/main/E-Comm%20project%20Data%20Cleaning.sql)
 ### Data Transformation
 - Data transformation refers to the processes that convert raw data into a more structured and usable format. This often involves cleaning the data, standardizing formats, and enriching datasets to improve their quality and usability for analysis. The transformation process is essential for ensuring that data is accurate, consistent, and ready for insights extraction.
 [E-Comm Data Transformation](https://github.com/arunprasath23072002/SQL-Project/blob/main/E-Comm%20project%20Data%20Transformation.sql)
