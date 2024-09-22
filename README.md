@@ -18,3 +18,7 @@
 ### Data Transformation
 - Data transformation refers to the processes that convert raw data into a more structured and usable format. This often involves cleaning the data, standardizing formats, and enriching datasets to improve their quality and usability for analysis. The transformation process is essential for ensuring that data is accurate, consistent, and ready for insights extraction.
 [E-Comm Data Transformation](https://github.com/arunprasath23072002/SQL-Project/blob/main/E-Comm%20project%20Data%20Transformation.sql)
+
+### Data Exploration and Data Analysis
+- Data exploration is the initial stage of the data analysis process. It involves examining and investigating the data to gain a better understanding of its characteristics, identify patterns, and uncover insights. Data analysis is the process of applying statistical and analytical techniques to data to extract meaningful insights and support decision-making. It involves transforming raw data into a more structured format, cleaning and preprocessing the data, and applying various analytical methods to uncover patterns, trends, and relationships.
+[Data Exploration and Data Analysis](https://github.com/arunprasath23072002/SQL-Project/blob/main/E-Comm%20project%20Data%20Exploration%20and%20Analysis.sql)
